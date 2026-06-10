@@ -1,0 +1,32 @@
+{
+  "Services": [
+    {
+      "Service": "Course List",
+      "Features": [
+        {
+          "Feature": "List Course",
+          "Functions": [
+            {
+              "Function": "Display Current Course",
+              "Module": "Course",
+              "Component (UI)": "Course Section",
+              "Element": "Show all course currently enrolled in"
+            },
+            {
+              "Function": "Display Completed Course",
+              "Module": "Course",
+              "Component (UI)": "Course Section",
+              "Element": "Show all completed course"
+            },
+            {
+              "Function": "Filter Course",
+              "Module": "Course",
+              "Component (UI)": "Side Bar",
+              "Element" : "Filter By option : CS, MIS, MATH, etc,..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

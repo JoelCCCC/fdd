@@ -1,0 +1,32 @@
+{
+  "Services": [
+    {
+      "Service": "Goal List",
+      "Features": [
+        {
+          "Feature": "List Goals",
+          "Functions": [
+            {
+              "Function": "Display Current Goals",
+              "Module": "goal",
+              "Component (UI)": "Course Section",
+              "Element": "Show all course currently enrolled in"
+            },
+            {
+              "Function": "Display Completed Goals",
+              "Module": "goal",
+              "Component (UI)": "Course Section",
+              "Element": "Show all completed goals"
+            },
+            {
+              "Function": "Filter Goals",
+              "Module": "goal",
+              "Component (UI)": "Side Bar",
+              "Element" : "Filter By Priority : High-Low, Low-High"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Services": [
+    {
+      "Service": "Overview",
+      "Features": [
+        {
+          "Feature": "User Overview",
+          "Functions": [
+            {
+              "Function": "Recent Course Work",
+              "Module": "Course",
+              "Component (UI)": "Overview Section",
+              "Element": "Show activity from recent course"
+            },
+            {
+              "Function": "Progress Tracking",
+              "Module": "Progress",
+              "Component (UI)": "Progress Bar",
+              "Element" : "Show summary of a couple of recent course progress, (how far they are into that course)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

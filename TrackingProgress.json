@@ -1,0 +1,44 @@
+{
+  "Services": [
+    {
+      "Service": "Progress Tracking",
+      "Features": [
+        {
+          "Feature": "Course Tracking",
+          "Functions": [
+            {
+              "Function": "Display Progress of Each Course",
+              "Module": "Course",
+              "Component (UI)": "Progress Bar",
+              "Element": "Show How far they are into the course. if bar is full it mean they completed the course"
+            }
+          ]
+        },
+      "Features": [
+        {
+          "Feature": "Goal Tracking",
+          "Functions": [
+            {
+              "Function": "Display Progress of Each Goal",
+              "Module": "Goal",
+              "Component (UI)": "Progress Bar",
+              "Element": "Show how close they are to reaching their goal. if bar is full it mean they reached their goal"
+            }
+          ]
+        }
+      ],
+      "Features": [
+        {
+          "Feature": "Skills Tracking",
+          "Functions": [
+            {
+              "Function": "Display Progress of Each skill",
+              "Module": "skills",
+              "Component (UI)": "Progress Bar",
+              "Element": "Show how close they are to learning that skill. if bar is full it mean they learned the skill"
+            }
+          ]
+        }
+    }
+  ]
+}

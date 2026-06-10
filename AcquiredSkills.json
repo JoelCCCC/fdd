@@ -1,0 +1,26 @@
+{
+  "Services": [
+    {
+      "Service": "Skills List",
+      "Features": [
+        {
+          "Feature": "List Skills",
+          "Functions": [
+            {
+              "Function": "Display Current Acquired Skills",
+              "Module": "skills",
+              "Component (UI)": "Course Section",
+              "Element": "Show all skills currently have"
+            },
+            {
+              "Function": "Display Lacking Skills",
+              "Module": "goal",
+              "Component (UI)": "Course Section",
+              "Element": "Show all skills that needs improving"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
