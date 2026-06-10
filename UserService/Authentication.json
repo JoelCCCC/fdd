@@ -1,0 +1,48 @@
+{
+  "Services": [
+    {
+      "Service": "Authentication",
+      "Features": [
+        {
+          "Feature": "Sign Up",
+          "Functions": [
+            {
+              "Function": "Sign up with Google OAuth",
+              "Module": "auth",
+              "Component (UI)": "Google Sign-In Modal"
+            },
+            {
+              "Function": "Enter Username",
+              "Module": "auth",
+              "Component (UI)": ""
+            }
+          ]
+        }
+      ],
+      "Features": [
+        {
+          "Feature": "Sign In",
+          "Functions": [
+            {
+              "Function": "Sign in with Google OAuth",
+              "Module": "auth",
+              "Component (UI)": "Google Sign-In Modal"
+            }
+          ]
+        }
+      ],
+      "Features": [
+        {
+          "Feature": "Log Out",
+          "Functions": [
+            {
+              "Function": "Log Out",
+              "Module": "auth",
+              "Component (UI)": "Log Out Button"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
