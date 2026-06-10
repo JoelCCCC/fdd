@@ -1,0 +1,26 @@
+{
+  "Services": [
+    {
+      "Service": "Profile",
+      "Features": [
+        {
+          "Feature": "View Profile",
+          "Functions": [
+            {
+              "Function": "Profile",
+              "Module": "profile",
+              "Component (UI)": "Profile Panel",
+              "Element": "view profile picture, username"
+            },
+            {
+              "Function": "Edit Profile",
+              "Module": "profile",
+              "Component (UI)": "Profile Edit Panel",
+              "Element" : "Change profile picture, change username"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
