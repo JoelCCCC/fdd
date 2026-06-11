@@ -1,0 +1,22 @@
+{
+    "Service": "AI Insights & Guidance",
+    "Features": [
+      {
+        "Feature": "Smart Recommendations",
+        "Functions": [
+          {
+            "Function": "Generate Skill Gap Analysis",
+            "Module": "ai_engine",
+            "Component (UI)": "Insights Panel",
+            "Element": "Lacking Skills Warning List"
+          },
+          {
+            "Function": "Suggest Goal Pathway",
+            "Module": "ai_engine",
+            "Component (UI)": "Goal Guidance Widget",
+            "Element": "AI Recommended Action Steps Text"
+          }
+        ]
+      }
+    ]
+}

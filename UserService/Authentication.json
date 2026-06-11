@@ -9,12 +9,14 @@
             {
               "Function": "Sign up with Google OAuth",
               "Module": "auth",
-              "Component (UI)": "Google Sign-In Modal"
+              "Component (UI)": "Google Sign-In Modal",
+              "Element": "Google OAuth Button"
             },
             {
-              "Function": "Enter Username",
+              "Function": "Set Profile Username",
               "Module": "auth",
-              "Component (UI)": ""
+              "Component (UI)": "Registration Form",
+              "Element": "Username Input Field"
             }
           ]
         }
@@ -38,7 +40,8 @@
             {
               "Function": "Log Out",
               "Module": "auth",
-              "Component (UI)": "Log Out Button"
+              "Component (UI)": "Navbar/ Sidebar",
+              "Element": "Logout Button"
             }
           ]
         }
